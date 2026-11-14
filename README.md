@@ -16,6 +16,7 @@ La página presenta a Mauricio como profesor de Ciencias Computacionales, Estad�
 - **Motion Experiments 02:** [motion2.aelityx.com](https://motion2.aelityx.com/)
 - **DS_Basics — Data Science Fundamentals:** [mauriciorslrv/DS_basics](https://github.com/mauriciorslrv/DS_basics)
 - **GitHub:** [mauriciorslrv](https://github.com/mauriciorslrv)
+- **Personal Page:** [mau.aelityx.com](https://mau.aelityx.com/)
 - **LinkedIn:** [mauricio-rosalesr](https://linkedin.com/in/mauricio-rosalesr)
 
 ## Diseño
@@ -35,5 +36,5 @@ Clona el repositorio y abre `index.html` en un navegador. Para servirlo localmen
 El sitio se sirve desde Vercel como una página estática. El archivo de entrada es `index.html` en la raíz y no necesita comando de build.
 
 - **Repositorio:** [github.com/mauriciorslrv/linktree](https://github.com/mauriciorslrv/linktree)
-- **Dominio previsto:** [mau.aelityx.com](https://mau.aelityx.com/)
+- **Dominio personalizado:** [mau.aelityx.com](https://mau.aelityx.com/)
 
